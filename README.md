@@ -27,7 +27,15 @@ The clinic has gotten several complants regarding wait times
     >Staffing?
 
 ## Insights From Analysis
-- add images here
+![Slide1](./images/Visualization/Slide1.PNG?raw=true)
+![Slide2](./images/Visualization/Slide2.PNG?raw=true)
+![Slide3](./images/Visualization/Slide3.PNG?raw=true)
+![Slide4](./images/Visualization/Slide4.PNG?raw=true)
+![Slide5](./images/Visualization/Slide5.PNG?raw=true)
+![Slide6](./images/Visualization/Slide6.PNG?raw=true)
+
+
+
 
 ## Tools Used for Analysis
 - Excel: pivot tables, if conditional, conditional cormatting, time conversions, new dimentions, fuctions
