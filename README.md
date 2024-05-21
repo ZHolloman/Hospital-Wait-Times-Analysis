@@ -12,7 +12,7 @@ The clinic has gotten several complants regarding wait times
 - Are we to busy?
 - Is is a certain type of patient?
 
-## My questions for managemnt with answers
+## My questions for managment with answers
 1. What are the business goals?
     
     > Make money and Limit long wait times
