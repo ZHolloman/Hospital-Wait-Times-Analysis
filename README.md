@@ -27,12 +27,12 @@ The clinic has gotten several complants regarding wait times
     >Staffing?
 
 ## Insights From Analysis
-![Slide1.PNG](./Images/Visualization/Slide1.png?raw=true)
-![Slide2.PNG](./Images/Visualization/Slide2.png?raw=true)
-![Slide3.PNG](./Images/Visualization/Slide3.png?raw=true)
-![Slide4.PNG](./Images/Visualization/Slide4.png?raw=true)
-![Slide5.PNG](./Images/Visualization/Slide5.png?raw=true)
-![Slide6.PNG](./Images/Visualization/Slide6.png?raw=true)
+![Slide1.png](./Images/Visualization/Slide1.png?raw=true)
+![Slide2.png](./Images/Visualization/Slide2.png?raw=true)
+![Slide3.png](./Images/Visualization/Slide3.png?raw=true)
+![Slide4.png](./Images/Visualization/Slide4.png?raw=true)
+![Slide5.png](./Images/Visualization/Slide5.png?raw=true)
+![Slide6.png](./Images/Visualization/Slide6.png?raw=true)
 
 
 
