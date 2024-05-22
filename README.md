@@ -28,11 +28,11 @@ The clinic has gotten several complants regarding wait times
 
 ## Insights From Analysis
 ![Slide1.png](./Images/Visualization/Slide1.PNG?raw=true)
-![Slide2.png](./Images/Visualization/Slide2.png?raw=true)
-![Slide3.png](./Images/Visualization/Slide3.png?raw=true)
-![Slide4.png](./Images/Visualization/Slide4.png?raw=true)
-![Slide5.png](./Images/Visualization/Slide5.png?raw=true)
-![Slide6.png](./Images/Visualization/Slide6.png?raw=true)
+![Slide2.png](./Images/Visualization/Slide2.PNG?raw=true)
+![Slide3.png](./Images/Visualization/Slide3.PNG?raw=true)
+![Slide4.png](./Images/Visualization/Slide4.PNG?raw=true)
+![Slide5.png](./Images/Visualization/Slide5.PNG?raw=true)
+![Slide6.png](./Images/Visualization/Slide6.PNG?raw=true)
 
 
 
