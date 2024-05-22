@@ -2,15 +2,15 @@
 
 
 ## Problem statment
-The clinic has gotten several complants regarding wait times
+The clinic has gotten several complaints regarding wait times
 ## Task:
  Analysis, Hypothesis, Data story on the overall wait time
 
 ## Questions from Managment
-- Why are we getting these complaint?
+- Why are we getting these complaints?
 - Do we have staffing issues?
-- Are we to busy?
-- Is is a certain type of patient?
+- Are we too busy?
+- Is there a certain type of patient?
 
 ## My questions for managment with answers
 1. What are the business goals?
@@ -38,5 +38,5 @@ The clinic has gotten several complants regarding wait times
 
 
 ## Tools Used for Analysis
-- Excel: pivot tables, if conditional, conditional cormatting, time conversions, new dimentions, fuctions
+- Excel:pivot tables, if conditional, conditional formatting, time conversions, new dimensions, functions
 - Data Story
